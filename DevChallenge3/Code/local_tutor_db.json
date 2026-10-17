@@ -1,0 +1,291 @@
+{
+    "Korean": {
+        "level": "Absolute Beginner",
+        "time": 17,
+        "days": 59,
+        "day": 2,
+        "lagging": [
+            "Hangul alphabet, Korean vocabulary, pitch differences"
+        ],
+        "past_questions": [
+            "What is the name of the foundational Korean alphabet taught in this lesson?",
+            "What is the Korean word for 'Ah, the first letter'?",
+            "What is the English translation of the Korean word for 'M, the first consonant'?",
+            "What is the difference in pitch between the Korean words for 'M, the second consonant' and 'M, the second consonant with a different pitch'?"
+        ],
+        "current_lesson": {
+            "title": "Korean Lesson for Absolute Beginners - Day 2",
+            "introduction": "Welcome to Day 2 of your Korean learning journey! Today, we'll focus on building upon the Hangul alphabet and introducing new vocabulary, while reviewing the pitch differences and Korean vocabulary from yesterday.",
+            "vocabulary": [
+                {
+                    "native": "한흄",
+                    "romanization": "Seo",
+                    "english": "Firm, Steadfast"
+                },
+                {
+                    "native": "안녕",
+                    "romanization": "Ji",
+                    "english": "Earth, Land"
+                },
+                {
+                    "native": "주녕",
+                    "romanization": "Cha",
+                    "english": "Tea"
+                },
+                {
+                    "native": "합번",
+                    "romanization": "Haneul",
+                    "english": "Sky, Heaven"
+                },
+                {
+                    "native": "주다",
+                    "romanization": "Cheon",
+                    "english": "Heaven, Sky"
+                }
+            ],
+            "sentences": []
+        },
+        "current_quiz": [],
+        "history": [
+            {
+                "day": 1,
+                "lesson": {
+                    "title": "Lesson 1: Introduction to Korean Alphabet",
+                    "introduction": "Today, we will focus on learning the foundational Korean alphabet, known as Hangul. This is a crucial step in becoming proficient in the Korean language.",
+                    "vocabulary": [
+                        {
+                            "native": "",
+                            "romanization": "A",
+                            "english": "Ah, the first letter"
+                        },
+                        {
+                            "native": "",
+                            "romanization": "ya",
+                            "english": "Ah, the first vowel"
+                        },
+                        {
+                            "native": "",
+                            "romanization": "yo",
+                            "english": "Oh, the first diphthong"
+                        },
+                        {
+                            "native": "",
+                            "romanization": "mu",
+                            "english": "M, the first consonant"
+                        },
+                        {
+                            "native": "",
+                            "romanization": "na",
+                            "english": "N, the second consonant"
+                        },
+                        {
+                            "native": "",
+                            "romanization": "ni",
+                            "english": "N, the second consonant with a different pitch"
+                        },
+                        {
+                            "native": "",
+                            "romanization": "ma",
+                            "english": "M, the second consonant"
+                        },
+                        {
+                            "native": "",
+                            "romanization": "mi",
+                            "english": "M, the second consonant with a different pitch"
+                        }
+                    ],
+                    "sentences": []
+                },
+                "report": {
+                    "score": "40",
+                    "strengths": "The student has made an effort to attempt the questions, showing a willingness to learn.",
+                    "weaknesses": "The student has not shown a clear understanding of the foundational Korean alphabet and its pronunciation.",
+                    "detailed_feedback": {
+                        "Q1": "The correct answer is \"hangul\" (, ).",
+                        "Q2": "The correct answer is \"eh daehal uieo\" (, ), not \"Ah\". The student should focus on learning the correct vocabulary for the lesson.",
+                        "Q3": "The correct answer is \"Yeom, jeo daehal uieo\" (, ). The student's answer, \"Ya\", is not an accurate translation.",
+                        "Q4": "The correct answer is not provided as the question is poorly translated. However, the student's answer, \"Yah\", does not indicate an understanding of pitch differences in Korean."
+                    },
+                    "lagging_topics": [
+                        "Hangul alphabet, Korean vocabulary, pitch differences"
+                    ]
+                }
+            }
+        ]
+    },
+    "French": {
+        "level": "Absolute Beginner",
+        "time": 20,
+        "days": 30,
+        "day": 2,
+        "lagging": [
+            "Letter pronunciation and Romanization in French",
+            "Case sensitivity in French transcription"
+        ],
+        "past_questions": [
+            "What is the correct pronunciation of the letter A in French?",
+            "Fill in the blank: The letter P is pronounced as ______________________.",
+            "Match the French letter with its English translation: A -> _______________________",
+            "What is the correct Romanization of the letter J in French?"
+        ],
+        "current_lesson": {},
+        "current_quiz": [],
+        "history": [
+            {
+                "day": 1,
+                "lesson": {
+                    "title": "French Alphabet Basics - Day 1",
+                    "introduction": "Welcome to your first French lesson! Today, we'll learn the French alphabet, which consists of 26 letters. You'll also learn the correct pronunciation of each letter.",
+                    "vocabulary": [
+                        {
+                            "native": "A",
+                            "romanization": "Ah",
+                            "english": "The letter A"
+                        },
+                        {
+                            "native": "B",
+                            "romanization": "Be",
+                            "english": "The letter B"
+                        },
+                        {
+                            "native": "C",
+                            "romanization": "Se",
+                            "english": "The letter C"
+                        },
+                        {
+                            "native": "D",
+                            "romanization": "De",
+                            "english": "The letter D"
+                        },
+                        {
+                            "native": "E",
+                            "romanization": "Eh",
+                            "english": "The letter E"
+                        },
+                        {
+                            "native": "F",
+                            "romanization": "Ef",
+                            "english": "The letter F"
+                        },
+                        {
+                            "native": "G",
+                            "romanization": "Zhe",
+                            "english": "The letter G"
+                        },
+                        {
+                            "native": "H",
+                            "romanization": "Ash",
+                            "english": "The letter H"
+                        },
+                        {
+                            "native": "I",
+                            "romanization": "I",
+                            "english": "The letter I"
+                        },
+                        {
+                            "native": "J",
+                            "romanization": "Jeh",
+                            "english": "The letter J"
+                        },
+                        {
+                            "native": "K",
+                            "romanization": "Ka",
+                            "english": "The letter K"
+                        },
+                        {
+                            "native": "L",
+                            "romanization": "El",
+                            "english": "The letter L"
+                        },
+                        {
+                            "native": "M",
+                            "romanization": "Em",
+                            "english": "The letter M"
+                        },
+                        {
+                            "native": "N",
+                            "romanization": "En",
+                            "english": "The letter N"
+                        },
+                        {
+                            "native": "O",
+                            "romanization": "Oh",
+                            "english": "The letter O"
+                        },
+                        {
+                            "native": "P",
+                            "romanization": "Eh-peh",
+                            "english": "The letter P"
+                        },
+                        {
+                            "native": "Q",
+                            "romanization": "Kyu",
+                            "english": "The letter Q"
+                        },
+                        {
+                            "native": "R",
+                            "romanization": "Er",
+                            "english": "The letter R"
+                        },
+                        {
+                            "native": "S",
+                            "romanization": "Ese",
+                            "english": "The letter S"
+                        },
+                        {
+                            "native": "T",
+                            "romanization": "Te",
+                            "english": "The letter T"
+                        },
+                        {
+                            "native": "U",
+                            "romanization": "U",
+                            "english": "The letter U"
+                        },
+                        {
+                            "native": "V",
+                            "romanization": "Veh",
+                            "english": "The letter V"
+                        },
+                        {
+                            "native": "W",
+                            "romanization": "Doblyu",
+                            "english": "The letter W"
+                        },
+                        {
+                            "native": "X",
+                            "romanization": "Eks",
+                            "english": "The letter X"
+                        },
+                        {
+                            "native": "Y",
+                            "romanization": "I-grek",
+                            "english": "The letter Y"
+                        },
+                        {
+                            "native": "Z",
+                            "romanization": "Ez",
+                            "english": "The letter Z"
+                        }
+                    ],
+                    "sentences": []
+                },
+                "report": {
+                    "score": 40,
+                    "strengths": "The student has made an attempt to provide answers for each question.",
+                    "weaknesses": "The student appears to be confused about the correct pronunciation and Romanization of letters in French.",
+                    "detailed_feedback": {
+                        "Q1": "The correct pronunciation of the letter A in French is /a/ or 'ah' (open and slightly rounded vowel sound). The student's answer 'a' is a correct transcription of the letter itself, not its pronunciation.",
+                        "Q2": "The letter P is pronounced as /p/ in French, not 'a'. The student has mistakenly used the same answer as Q1.",
+                        "Q3": "The correct translation of the letter A in French is 'A', not 'a' (with a lowercase letter).",
+                        "Q4": "The correct Romanization of the letter J in French is /ʒ/ or 'zh' (a voiced postalveolar fricative sound), not 'a'."
+                    },
+                    "lagging_topics": [
+                        "Letter pronunciation and Romanization in French",
+                        "Case sensitivity in French transcription"
+                    ]
+                }
+            }
+        ]
+    }
+}
